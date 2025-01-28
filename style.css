@@ -231,9 +231,32 @@
 .main{
   background-color:#f7f8fA;
   width: 1440px;
+  height: 4430px;
 }
 
 .items{
   display: flex;
   flex-wrap: wrap;
+}
+
+.popItems{
+  /* width: 350px; */
+  height: 24px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 24px;
+  margin: 0 auto 60px 120px;
+  padding: 70px 0 0 0;
+  text-align: center;
+}
+
+.popcard{
+  /* margin: 60px 30px 40px 220px; */
+  background-color: white;
+  width: 277px;
+  height: 337px;
+  border-radius: 10px 10px;
+  margin: 0 -200px 30px 280px;
 }
