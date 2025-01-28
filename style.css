@@ -185,7 +185,8 @@
   font-weight: 800;
   font-size: 40px;
   line-height: 24px;
-  margin: 100px auto 40px 120px;
+  margin: 0 auto 60px 120px;
+  padding: 100px 0 0 0;
 }
 
 .pizza-image {
@@ -224,12 +225,12 @@
   width: 277px;
   height: 337px;
   border-radius: 10px 10px;
-  /* margin: 0 10px 0 0; */
-  justify-content: space-between;
+  margin: 0 -80px 30px 120px;
 }
 
 .main{
   background-color:#f7f8fA;
+  width: 1440px;
 }
 
 .items{
