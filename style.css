@@ -258,5 +258,16 @@
   width: 277px;
   height: 337px;
   border-radius: 10px 10px;
-  margin: 0 -200px 30px 280px;
+  margin: 0 30px 30px 40px;
+}
+
+.prevArrow{
+  width: 61.5px;
+  height: 61.5px;
+  margin: 120px 0 0 180px;
+}
+.nextArrow{
+  width: 81.5px;
+  height: 81.5px;
+  margin: 110px 0 0 0;
 }
