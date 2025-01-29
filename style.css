@@ -224,6 +224,7 @@
   height: 337px;
   border-radius: 10px 10px;
   margin: 0 -80px 30px 120px;
+  cursor: pointer;
 }
 
 .main {
