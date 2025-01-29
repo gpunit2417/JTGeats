@@ -264,11 +264,13 @@
   width: 61.5px;
   height: 61.5px;
   margin: 120px 0 0 180px;
+  cursor: pointer;
 }
 .nextArrow {
   width: 81.5px;
   height: 81.5px;
   margin: 110px 0 0 0;
+  cursor: pointer;
 }
 
 .btn {
