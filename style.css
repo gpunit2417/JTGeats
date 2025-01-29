@@ -257,6 +257,7 @@
   height: 337px;
   border-radius: 10px 10px;
   margin: 0 30px 30px 47px;
+  cursor: pointer;
 }
 
 .prevArrow {
